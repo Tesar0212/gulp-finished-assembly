@@ -9,4 +9,4 @@ The advantages of this assembly are:
   
 This build uses CommonJS syntax 
 
-Launching the build in developer mode is done by the command **npm run dev** or **gulp**
+Launching the build in developer mode is done by the command ```npm run dev
